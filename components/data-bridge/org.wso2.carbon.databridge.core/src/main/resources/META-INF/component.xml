@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
  ~ Copyright (c) 2005-2010, WSO2 Inc. (http://www.wso2.org) All Rights Reserved.
  ~
@@ -18,11 +19,11 @@
 <component xmlns="http://products.wso2.org/carbon">
     <ManagementPermissions>
         <ManagementPermission>
-            <DisplayName>Publish</DisplayName>
+            <DisplayName>发布</DisplayName>
             <ResourceId>/permission/admin/publish</ResourceId>
         </ManagementPermission>
         <ManagementPermission>
-            <DisplayName>WSO2 Event</DisplayName>
+            <DisplayName>事件</DisplayName>
             <ResourceId>/permission/admin/publish/wso2event</ResourceId>
         </ManagementPermission>
     </ManagementPermissions>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
   ~ Copyright (c) 2005 - 2014, WSO2 Inc. (http://www.wso2.org) All Rights Reserved.
   ~
@@ -23,7 +24,7 @@
 
     <ManagementPermissions>
         <ManagementPermission>
-            <DisplayName>Event Receiver</DisplayName>
+            <DisplayName>事件接收</DisplayName>
             <ResourceId>/permission/admin/manage/event-receive</ResourceId>
         </ManagementPermission>
     </ManagementPermissions>

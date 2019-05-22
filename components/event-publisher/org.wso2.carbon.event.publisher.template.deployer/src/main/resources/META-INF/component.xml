@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
   ~ Copyright (c) 2016, WSO2 Inc. (http://www.wso2.org) All Rights Reserved.
   ~
@@ -18,7 +19,7 @@
 
     <ManagementPermissions>
         <ManagementPermission>
-            <DisplayName>Event publisher template deploy</DisplayName>
+            <DisplayName>部署事件发布模板</DisplayName>
             <ResourceId>/permission/admin/manage/template-manager</ResourceId>
         </ManagementPermission>
     </ManagementPermissions>er
